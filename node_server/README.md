@@ -8,9 +8,9 @@ Begin your Node.js application by creating the foundation code in your app.js fi
 
 Packages Needed include the following: 
 
-Express 
-EJS
-Request
+Express <br />
+EJS <br />
+Request <br />
 
 ### Express 
 
