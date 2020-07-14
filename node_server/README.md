@@ -6,7 +6,7 @@ Basic boiler plate for Node.js server using Express. As well as directions on ho
 
 Begin your Node.js application by creating the foundation code in your app.js file. The foundation code should include all the NPM packages you will need to run your project.
 
-Packages Needed include the following: 
+NPM packages needed include the following: 
 
 Express <br />
 EJS <br />
@@ -14,22 +14,27 @@ Request <br />
 
 ### Express 
 
+
+Install express by running this line of code in your terminal
 ```
 npm install express --save 
 ```
 
 ###  EJS
 
+
+Install ejs by using this line of code in your terminal
 ``` 
 npm install ejs --save
 ```
 
 ### Request
 
+
+Install request by using this line of code in your terminal
 ``` 
 npm install request --save
 ```
-
 
 
 ## Route Handlers
